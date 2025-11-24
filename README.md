@@ -8,5 +8,5 @@ This report contains statistical analyses across three sections:
 4. Code Appendix
 5. Self Reflection
 
-Each section is presented with distinct analytical approaches and findings. 
+Each section is presented with distinct analytical approaches and findings!
 
