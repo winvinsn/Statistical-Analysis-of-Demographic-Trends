@@ -17,10 +17,12 @@ The goal of this project is to explore patterns in military personnel data, baby
 - Create a code appendix for clarity and reproducibility.
 
 ## Repo Organization
-- `README.md` — Project introduction, overview, and documentation.  
+- `README.md` — Contains an overview of the project, goals, data sources, and contact information.  
+- `PLAN.md` — Details the project and repo plan, including goals, needs, and steps for completing the analyses and maintaining the repository.  
 - `docs/` — Additional documentation or usage instructions.  
-- `test.txt` — Placeholder feature file for incremental commits.  
-- `code/` — Scripts and code used in the analyses.  
+- `code/` — Scripts and code used for analyses in R and Quarto.  
+- `test.txt` — Placeholder feature file demonstrating incremental commits.  
+- `Activity14_Output.pdf` — Output file from Activity #14.  
 
 ## Contact
 - **Nguyen Ngo:** ntn5155@psu.edu 
